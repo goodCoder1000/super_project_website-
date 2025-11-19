@@ -23,16 +23,21 @@ table {
 
 table, th, td {
     border: 5px solid #00ff00;
+    padding-right: auto;
+    padding-left: auto;
 }
 
 th, td {
     padding: 10px;
     text-align: center;
+    padding-right: auto;
+    padding-left: auto;
 }
 
 ol, ul {
-    padding-left: 10px;
     text-align: center;
+    padding-right: auto;
+    padding-left: auto;
 }
 
 footer {
